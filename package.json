@@ -24,7 +24,6 @@
   "license": "ISC",
   "dependencies": {
     "build": "^0.1.4",
-    "covid-charts": "^0.1.2",
     "date-fns": "^2.11.0",
     "lightweight-charts": "^2.0.0"
   },
