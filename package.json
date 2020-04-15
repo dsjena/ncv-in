@@ -23,7 +23,6 @@
   "author": "dsjena",
   "license": "ISC",
   "dependencies": {
-    "build": "^0.1.4",
     "date-fns": "^2.11.0",
     "lightweight-charts": "^2.0.0"
   },
