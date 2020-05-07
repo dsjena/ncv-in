@@ -1,7 +1,17 @@
-Author has created this dashboard by the request of his firneds. You may find plenty of such dashboard put forward by lot of volunteers. The input data for this dashboard is tunnel through [api](https://github.com/RamiKrispin/indiadata). The data and dashboard is refreshed on a daily bases. The raw data pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) indiadata [repository](https://github.com/RamiKrispin/indiadata-csv) & upstream data produced by NYT https://github.com/nytimes/covid-19-data. This API also scraps data from Official Website of [Ministry of Health and Family Welfare](https://mohfw.gov.in). JSONS are upaded periodically to the [api](https://github.com/RamiKrispin/indiadata).
+**General Information**
+
+Author has created this dashboard on the request of several friends, this dashboard is created with minimal applicability in view. You may find plenty of such dashboard put forward by lot of volunteers. The input data for this dashboard is tunnel through [api](https://github.com/dsjena/ncv-api). The data and dashboard is refreshed on a daily bases. The raw data pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) indiadata [repository](https://github.com/dsjena/ncv-in) & upstream data produced by NYT https://github.com/nytimes/covid-19-data. This API also scraps data from Official Website of [Ministry of Health and Family Welfare](https://mohfw.gov.in). JSONS are upaded periodically to the [api](https://github.com/dsjena/ncv-api).
 
 
 WE DO NOT GUARANTEE ACCURACY OF THE DATA. PLEASE USE IT AS A VISUAL AID ONLY, AND DO NOT BASE ANY DECISION MEDICAL OR LOGISTICAL BASED ON THE DATA PROVIDED IN THESE CHARTS OR DATA FILES.
+
+**Related link:**
+
+* [India dashboard:](https://dsjena.github.io/ncv-in/)
+* [World Dashboard:](https://dsjena.github.io/ncv-wd/)
+* [Data on Git:](https://github.com/dsjena/ncv-api)
+* [API Link :](https://dsjena.github.io/ncv-api/)
+
 
 **Great data sources**
 
@@ -31,9 +41,8 @@ of Use:</b><br>
 
 **Acknowledgements**
 
-This uses many open sources packages and scripts. Therefore, author acknoledges to all those distance and closure software creators.
+This uses many open sources packages and scripts. Therefore, author acknowledges to all those distance and close software creators, friends and innovators.
 
-**Contribution**
 
 Suggestion and comments are welcome for discussion.
 
@@ -46,5 +55,3 @@ Send me mail for further queries (Many people knows this creators's email)
 [The MIT License](https://choosealicense.com/licenses/mit/)
 
 The data and this page related GitHub repository and its contents herein, including all data, is provided to the public strictly for educational and academic research purposes. The dataset relies upon publicly available data from multiple sources, that do not always agree. Treat the data included here as a sample data, which might be (and probably is) NOT up-to-date and contain (and probably does) contain some calculational errors, especially in historical numbers.
-
-
